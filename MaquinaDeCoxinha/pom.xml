@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>MaquinaDeCoxinha</artifactId>
+    <artifactId>maquinaDeCoxinha</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>MaquinaDeCoxinha</name>
+    <name>maquinaDeCoxinha</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -60,7 +60,7 @@
                         <!-- Default configuration for running with: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>org.example.maquinadecoxinha/org.example.maquinadecoxinha.HelloApplication
+                            <mainClass>org.example.maquinadecoxinha/org.example.maquinadecoxinha.MaquinaDeCoxinhaApplication
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
